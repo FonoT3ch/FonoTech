@@ -72,11 +72,6 @@ O sistema é composto pelas seguintes  camadas principais:
 - Tecnologias assistivas
 - Sistemas embarcados educacionais
 
----
-
-📷 Demonstração
-
-«(Adicione aqui imagens do protótipo e testes do sistema)»
 
 ---
 
