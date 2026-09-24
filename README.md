@@ -61,7 +61,6 @@ O sistema é composto pelas seguintes  camadas principais:
 - Diodos emissores de luz (LED's)
 - Botões do tipo push-buton
 - Chaves de duas posições on/off
-- 
 
 ---
 
